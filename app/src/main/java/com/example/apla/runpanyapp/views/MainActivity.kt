@@ -23,7 +23,6 @@ class MainActivity : BaseActivity(){
         )
         //ViewModelインスタンスを取得
         mViewModel = ViewModelProviders.of(this, factory).get(MainViewModel::class.java)
-//        mViewModel = MainViewModel(application)
 
         // binding
         mBinding!!.viewModel = mViewModel
