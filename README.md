@@ -1,8 +1,8 @@
 # android-architecture-components-mvvm-kotlin
 
 このプログラムソースは、以下のことを行なっています。
-・android-architecture-components のサンプルコードをKotlinへコンバート
-・ivacf/archiのMVVM (https://github.com/ivacf/archi/tree/master/app-mvvm)
+- android-architecture-components のサンプルコードをKotlinへコンバート
+- ivacf/archiのMVVM (https://github.com/ivacf/archi/tree/master/app-mvvm)
 
 ## このアプリについて
 Androidのアーキテクチャの勉強の為、作ったサンプルソースで
@@ -13,12 +13,13 @@ APIでの取り扱いで、RetrofitとBindingAdapterを使って、ロジック�
 
 
 ## 使われている主な技術・ライブラリ
-・AndroidX
-・Room
-・LiveData
-・ViewModelProviders
-・RxJava & RxAndroid
-・Retrofit 2
+
+- AndroidX
+- Room
+- LiveData
+- ViewModelProviders
+- RxJava & RxAndroid
+- Retrofit 2
 
 ## License
 
